@@ -1,3 +1,7 @@
 .DS_Store
 .mt_installx
 .mt_installxx
+.mt_packages/plugins/*
+.mt_packages/themes/*
+.composer.lock
+.mt_libraries/vendor
